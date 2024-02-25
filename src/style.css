@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.arrowholder > p {
+  background-color: black !important;
+  padding: 0 1rem;
+}
